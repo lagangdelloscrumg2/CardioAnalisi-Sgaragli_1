@@ -18,6 +18,6 @@ namespace DataCardio.Tests
 
             Assert.AreEqual(battitofiero, aspettativa);
 
-        }
+        } 
     }
 }
